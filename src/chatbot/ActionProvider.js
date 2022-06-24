@@ -67,7 +67,7 @@ class ActionProvider {
 
   //Explore Build
   handleExploreBuild = () => {
-    window.open("#");
+    window.open("https://www.codeate.in/built");
   };
 
   //Get in touch with Build
@@ -87,7 +87,7 @@ class ActionProvider {
 
   //Explore Learn
   handleExploreLearn = () => {
-    window.open("#");
+    window.open("https://www.codeate.in/learn");
   };
 
   //Get in touch with Learn
@@ -106,7 +106,7 @@ class ActionProvider {
 
   //Explore Community
   handleExploreCommunity = () => {
-    window.open("#");
+    window.open("https://www.codeate.in/community");
   };
 
   //Get in touch with Community
