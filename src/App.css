@@ -1,9 +1,13 @@
 .App {
   text-align: center;
-  background-color: rgb(103, 103, 103);
-  min-height: 1000px;
+  min-height: 500px;
   display: flex;
   justify-content: center;
-  align-items: center;
 }
 
+.chat__Button{
+  color: #31b2fd !important;
+  left: 500px;
+  bottom: -30px;
+  position: absolute;
+}
